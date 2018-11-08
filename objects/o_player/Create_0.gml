@@ -12,7 +12,7 @@ switch(room)
 		//image_blend = c_blue;
 	break;
 	case r_roadGame:
-		image_blend = c_green;
+	image_speed = 0;
 	break;
 	case r_dateGame:
 		//image_blend = c_blue;

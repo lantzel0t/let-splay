@@ -58,7 +58,7 @@
             "Key": "0ea862a4-9b2e-48d8-8fe3-849eb3ec7957",
             "Value": {
                 "id": "ae50fdc1-c36c-4e82-a1c1-b2cf03a7f959",
-                "resourcePath": "sprites\\s_car\\s_car.yy",
+                "resourcePath": "sprites\\s_car1\\s_car1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "6056c62b-a74f-4de6-b0e1-004d37f8a5c1",
+            "Value": {
+                "id": "a699372c-dc85-42f0-813f-33844835095b",
+                "resourcePath": "sprites\\s_car2\\s_car2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6436cacb-8b0a-4488-9ffc-4eb5471b7ad2",
             "Value": {
                 "id": "5e8e1bc2-ac52-4089-8af1-8c28a98a8523",
@@ -218,7 +226,7 @@
             "Key": "92e8b5e6-df03-4375-a91f-88a1f6842e57",
             "Value": {
                 "id": "954e3d13-382f-48f3-89a7-614625b634e7",
-                "resourcePath": "sprites\\s_player\\s_player.yy",
+                "resourcePath": "sprites\\s_playerRoad\\s_playerRoad.yy",
                 "resourceType": "GMSprite"
             }
         },
