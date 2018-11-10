@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "07d2eda6-cafe-4094-8ffe-ddcf390e2ed8",
+            "Value": {
+                "id": "1ac147e2-c4f6-4446-b720-1d568501704e",
+                "resourcePath": "sounds\\datingTheme\\datingTheme.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0b01d8d5-f464-4f8a-947e-8c0c7b048d5a",
             "Value": {
                 "id": "c49947b5-8a17-496d-b42e-20f6d62419c3",
@@ -71,11 +79,43 @@
             }
         },
         {
+            "Key": "15eac76e-1a54-4924-9d03-772da148b8ff",
+            "Value": {
+                "id": "1b411aaf-5086-4d87-bb45-26e972d1348c",
+                "resourcePath": "sprites\\s_girl\\s_girl.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "195f99ec-4fa6-4f0a-84cb-554bb1f7b49a",
+            "Value": {
+                "id": "31b51648-884a-4a62-9f17-ebfae1f3c322",
+                "resourcePath": "sprites\\angryMouthOpen\\angryMouthOpen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c252449-50a3-42e1-9689-c6049cde57e3",
             "Value": {
                 "id": "39c56992-c586-4f9c-a992-1e6b1f9f26f4",
                 "resourcePath": "objects\\o_slider\\o_slider.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "23f3ba8f-e7e6-4de8-9b54-27f957c28a55",
+            "Value": {
+                "id": "59631d71-5c1c-4d7c-9df3-e0a231cd9aad",
+                "resourcePath": "objects\\o_animeDate\\o_animeDate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "25bbe41d-6049-4a74-a049-b2665fcbb035",
+            "Value": {
+                "id": "cda33333-f376-46e3-9b51-5a3779fecb8f",
+                "resourcePath": "scripts\\getElement\\getElement.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -103,11 +143,27 @@
             }
         },
         {
+            "Key": "3425afad-14c9-444d-968a-405d61ce1975",
+            "Value": {
+                "id": "bf784bd3-3877-441b-943d-371d9d96347b",
+                "resourcePath": "sprites\\s_heartFull\\s_heartFull.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3768bd2b-1edb-45d7-aa5e-e84fbfd44790",
             "Value": {
                 "id": "441044b6-bbd4-4d9a-9e4e-803bf8b3f099",
                 "resourcePath": "views\\3768bd2b-1edb-45d7-aa5e-e84fbfd44790.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3871df6c-f91e-48fc-834e-69584300ab86",
+            "Value": {
+                "id": "3744162d-fee1-4d34-bd71-0dc72b1c0d50",
+                "resourcePath": "sprites\\s_dialogBox\\s_dialogBox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,10 +175,26 @@
             }
         },
         {
+            "Key": "3e3db7b5-ee71-4187-b0e1-63dd315f65f2",
+            "Value": {
+                "id": "7747f6fa-6c86-43e5-92fd-e626ee344f44",
+                "resourcePath": "objects\\o_animeEyes\\o_animeEyes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "46121c4e-e5bc-4d71-9838-78fad9af802d",
             "Value": {
                 "id": "0bd2644a-476b-4de9-abfd-1bee6515dc87",
                 "resourcePath": "sprites\\s_timeStamp\\s_timeStamp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4ec13cc0-4903-4557-9d8e-8b98ed804c78",
+            "Value": {
+                "id": "a29505cc-6158-4c85-ba09-8f01993b556b",
+                "resourcePath": "sprites\\s_heart1Full\\s_heart1Full.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -132,6 +204,14 @@
                 "id": "009d5345-6a0f-462d-b0bf-4091a405fcf2",
                 "resourcePath": "rooms\\r_gradGame\\r_gradGame.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "57f242fb-d9be-4d8d-b068-00d05e13e55f",
+            "Value": {
+                "id": "91792b3e-b1d5-4728-ad41-1ac298f3430b",
+                "resourcePath": "sprites\\angryMouthClose\\angryMouthClose.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,10 +239,26 @@
             }
         },
         {
+            "Key": "5ef1c604-027b-4143-9aaf-d8910e47d872",
+            "Value": {
+                "id": "7c98347f-d68e-45f3-b735-3e0f949c6e89",
+                "resourcePath": "sprites\\happyEyes\\happyEyes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6056c62b-a74f-4de6-b0e1-004d37f8a5c1",
             "Value": {
                 "id": "a699372c-dc85-42f0-813f-33844835095b",
                 "resourcePath": "sprites\\s_car2\\s_car2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "624a4582-6cf0-42ea-b471-15532ec5b34b",
+            "Value": {
+                "id": "c6c1a355-74fc-4380-95d9-2ce6b06849cf",
+                "resourcePath": "sprites\\s_heartEmpty\\s_heartEmpty.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -175,11 +271,27 @@
             }
         },
         {
+            "Key": "6a39ed20-eae9-4af9-b326-d4d7c520cf2d",
+            "Value": {
+                "id": "d0d86e75-caf3-4be5-8793-29f6fa92839d",
+                "resourcePath": "sprites\\s_inputBox\\s_inputBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6bdc9169-23fd-42da-bb04-1d2d30051288",
             "Value": {
                 "id": "ca23589d-bfa4-45ef-a42e-24b98291a27f",
                 "resourcePath": "rooms\\r_bikeGame\\r_bikeGame.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6dbf5514-4ca0-4a26-9515-8164ee1bdf43",
+            "Value": {
+                "id": "4dbd7540-c62a-41d2-aa7c-baa66082a1b8",
+                "resourcePath": "sprites\\angryEyes\\angryEyes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,11 +303,27 @@
             }
         },
         {
+            "Key": "757a231c-900d-4109-9bac-73b7b94912b2",
+            "Value": {
+                "id": "3e65ea56-d907-4244-b27d-cdd4244e0f8f",
+                "resourcePath": "sounds\\wrongAnswer\\wrongAnswer.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "76992cda-60b0-4234-8ca8-cd41f67289e5",
             "Value": {
                 "id": "7a2ab41d-d470-41b4-95ac-a399a13f00d3",
                 "resourcePath": "views\\76992cda-60b0-4234-8ca8-cd41f67289e5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76a8460d-0aae-4617-ba5f-9d2e04e55a4d",
+            "Value": {
+                "id": "d3195901-45e2-46f7-b53a-7c5519b7cda9",
+                "resourcePath": "sounds\\correctAnswer\\correctAnswer.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -239,6 +367,14 @@
             }
         },
         {
+            "Key": "9a039cf2-b11b-433a-b346-f893b661015f",
+            "Value": {
+                "id": "780eeadb-0257-4bfe-baaf-a556a22ccc51",
+                "resourcePath": "sprites\\happyMouthOpen\\happyMouthOpen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4edf46c-31fc-4c47-b736-91f4f716efe9",
             "Value": {
                 "id": "971753fb-6c6d-49f8-954a-993e0ad49b94",
@@ -271,6 +407,22 @@
             }
         },
         {
+            "Key": "bb2b2209-58c9-4620-a1a2-1c064baad78e",
+            "Value": {
+                "id": "9c69746f-c3fc-49b7-976e-6262dfe6c866",
+                "resourcePath": "objects\\o_dialogOptions\\o_dialogOptions.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bebb1a29-16cc-44fd-b65a-b0f675cf1464",
+            "Value": {
+                "id": "5c47a401-3a3f-4ddf-8f20-503fe12708da",
+                "resourcePath": "sprites\\annoyedEyes\\annoyedEyes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1303fe0-47e6-487d-9867-4892a536f4a8",
             "Value": {
                 "id": "bd672bf8-b9cf-47b4-aaea-4a4231c08237",
@@ -279,11 +431,27 @@
             }
         },
         {
+            "Key": "c184a9b9-d595-465c-818e-0a2fa9e7d01f",
+            "Value": {
+                "id": "0dccb421-cd0c-4a45-8d8c-5b8e70d45f35",
+                "resourcePath": "objects\\o_heartGauge\\o_heartGauge.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c93e6a3e-f931-48b0-829d-068a84edc945",
             "Value": {
                 "id": "f15453df-65be-4d7c-ac4b-68eaa511128f",
                 "resourcePath": "rooms\\r_retireGame\\r_retireGame.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cb3fccc8-117a-4fef-81aa-0ee895ad59fc",
+            "Value": {
+                "id": "7510ad9f-e709-4a52-96f3-aa8c3d0ce251",
+                "resourcePath": "sprites\\s_classroom\\s_classroom.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -300,6 +468,14 @@
                 "id": "6ad8c3d7-f276-41b4-ba2a-bf5154f0d19c",
                 "resourcePath": "views\\cd7ca559-fa38-40f4-b2a8-499c3b9de6c6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d2dea835-e6d5-4e3a-b864-afbcbab90823",
+            "Value": {
+                "id": "cded6059-919f-4312-8a0b-b0f215ca1f2e",
+                "resourcePath": "scripts\\arraymake\\arraymake.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -327,11 +503,35 @@
             }
         },
         {
+            "Key": "e2f547f6-f5f6-4d30-b72b-e5f6f1bbfbc2",
+            "Value": {
+                "id": "565503a4-17fb-495d-8883-83669aa36c41",
+                "resourcePath": "objects\\o_animeMouth\\o_animeMouth.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e403929d-bc8a-4b56-ab1a-57c465825264",
+            "Value": {
+                "id": "8527d3d4-66c0-4d9d-971f-61557c35e607",
+                "resourcePath": "sprites\\happyMouthClose\\happyMouthClose.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e6f93ffb-b080-4819-ba5b-5b5c72ef474c",
             "Value": {
                 "id": "c7532a28-01f3-499f-8e28-4feb025b6f94",
                 "resourcePath": "sprites\\s_FS\\s_FS.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "edb02695-6020-439a-9fdd-fd4bd48c030f",
+            "Value": {
+                "id": "40d493ca-bdc4-4f5f-90b2-bd9ceb2f5759",
+                "resourcePath": "objects\\o_inputBox\\o_inputBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -373,10 +573,20 @@
                 "resourcePath": "views\\fb209b43-eb10-4ca9-a95d-e28611bafaf3.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ffe2a493-01e4-4005-82d7-7f49f8e31503",
+            "Value": {
+                "id": "5b69269a-2e64-483c-993c-f7cc0dfe88a4",
+                "resourcePath": "sprites\\s_heart2Full\\s_heart2Full.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
-        "86858f00-0cbe-463a-b0ee-a2056c908adf"
+        "86858f00-0cbe-463a-b0ee-a2056c908adf",
+        "d2dea835-e6d5-4e3a-b864-afbcbab90823",
+        "25bbe41d-6049-4a74-a049-b2665fcbb035"
     ],
     "tutorial": ""
 }
