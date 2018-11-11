@@ -1,13 +1,13 @@
 Girls = arraymake("Rebecca", "Christie", "Emmy", "Kay", "Sarah", "Bethany", "Helga", "Emily", "Jane", "Lisa", "Anne", "Rosa", "Daphne", "Susan", "Laura", "Ginger", "Kayla", "Jessica", "Caitlyn", "Stephanie", "Mary", "Jennifer", "Abby");
-IceCream = arraymake("Vanilla", "Chocolate", "Strawberry", "Neopolitan", "RockyRoad", "ButterPecan", "MintChip", "Blueberry", "CottonCandy", "Carrot");
+IceCream = arraymake("vanilla", "chocolate", "strawberry", "neopolitan", "rockyroad", "butterpecan", "mintchip", "blueberry", "cottoncandy", "carrot");
 Pagenums = arraymake("7", "8", "9", "10", "11", "12", "13", "14", "15");
-Colors = arraymake("Red", "Blue", "Yellow", "Green", "Purple", "Orange", "Brown", "Black", "White", "Gold", "Silver", "Pink", "Beige", "Camo");
-Animals = arraymake("Cat", "Dog", "Iguana", "Rabbit", "Horse", "Bear", "Giraffe", "Lion", "Tiger", "Shrimp", "Jellyfish", "Plankton", "Starfish", "Bee", "Ant", "Spider", "Eagle", "Crow", "Dove", "Pig", "Cow");
+Colors = arraymake("red", "blue", "yellow", "green", "purple", "orange", "brown", "black", "white", "gold", "silver", "pink", "beige", "camo");
+Animals = arraymake("cat", "dog", "iguana", "rabbit", "horse", "bear", "giraffe", "lion", "tiger", "shrimp", "jellyfish", "plankton", "starfish", "bee", "ant", "spider", "eagle", "crow", "dove", "pig", "cow");
 Facts = arraymake("eat 19 times its own body weight", "sell its youngs' legs on the black market", "produce more eggs than there are stars in the universe", "mend broken families", "rotate its head ten degrees northwest");
 Signs = arraymake("Aries", "Libra", "Taurus", "Scorpio", "Gemini", "Sagitatirius", "Cancer", "Capricorn", "Leo", "Aquarius", "Virgo", "Pisces");
 Classes = arraymake("History", "English", "Calculus", "Physics", "Chemistry", "Economics", "UnderwaterBasketWeaving", "GraphicDesign", "Algebra", "Phonics", "SocialStudies");
-Jobs = arraymake("Teacher", "Engineer", "Architect", "Musician", "Salesman", "CampCounselor", "Programmer", "Hunter", "Preacher", "GameDesigner", "YouTuber", "Babysitter", "Mother");
-Gummys = arraymake("Strawberry", "Cherry", "Watermelon", "Lemon", "Lime", "Apple", "Orange", "Grape", "Pineapple");
+Jobs = arraymake("teacher", "engineer", "architect", "musician", "salesman", "counselor", "programmer", "hunter", "preacher", "designer", "YouTuber", "babysitter", "mother");
+Gummys = arraymake("strawberry", "cherry", "watermelon", "lemon", "lime", "apple", "orange", "grape", "pineapple");
 Counties = arraymake("China", "India", "Brazil", "Sealand", "Japan", "SouthKorea", "Vietnam", "Scotland", "England", "Spain", "Mexico", "Argentina", "Ecuador", "Egypt", "Israel", "Russia");
 
 var i;
