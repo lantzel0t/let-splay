@@ -14,6 +14,6 @@ if (o_dialogOptions.angerlevel == 2) {
 }
 
 if (o_dialogOptions.angerlevel == 3) {
-	win = false;
+	winOrlose.winCondition = "false";
 	sprite_index = s_heartEmpty;
 }

@@ -153,6 +153,7 @@ if (counter == 1600) {
 				angerlevel = angerlevel + 1;
 			}
 			else {
+				winOrlose.winCondition = "true";
 				audio_play_sound(correctAnswer, 11, false);
 			}
 			o_inputBox.input = "";

@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "860bfd15-1edf-4ca2-992f-b8c7c7dd1b1e",
+            "Value": {
+                "id": "51549a79-1b6f-4f5c-91eb-d260659438d6",
+                "resourcePath": "objects\\winOrlose\\winOrlose.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "86858f00-0cbe-463a-b0ee-a2056c908adf",
             "Value": {
                 "id": "8583457b-a744-4c7a-a70f-21b34cf6a0d2",
