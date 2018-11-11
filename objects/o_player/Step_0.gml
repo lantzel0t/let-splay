@@ -72,7 +72,9 @@ if (!global.paused)
 		break;
 		case r_retireGame:
 		break;
-		case r_funeralGame:
+		case r_funeral:
+		break;
+		case r_heaven:
 		break;
 		default:
 		break;
