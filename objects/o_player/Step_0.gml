@@ -6,10 +6,6 @@ if (!global.paused)
 	{
 		case r_intro:
 		break;
-		case r_birthGame:
-		break;
-		case r_bikeGame:
-		break;
 		case r_roadGame:
 			depth = -y;
 			var keyU = -keyboard_check_pressed(ord("W"));
@@ -63,20 +59,14 @@ if (!global.paused)
 			}
 			if (place_meeting(x, y, o_car))
 			{
+				winOrlose.winCondition = "false";
 				instance_destroy();	
 			}
 		break;
-		case r_dateGame:
-		break;
-		case r_gradGame:
-		break;
-		case r_retireGame:
-		break;
-		case r_funeral:
-		break;
-		case r_heaven:
-		break;
 		default:
 		break;
+	}
+	if (o_slider.timeStamp == global.clipTime) {
+		winOrlose.winCondition = "true";
 	}
 }

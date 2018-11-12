@@ -1,1 +1,0 @@
-global.clipTime = 60 * (15); //parentheses is seconds

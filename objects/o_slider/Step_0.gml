@@ -13,7 +13,7 @@ if (quit > 60)
 {
 	game_end();	
 }
-if (timeStamp == global.clipTime)
+/*if (timeStamp == global.clipTime)
 {
 	room_goto_next();	
-}
+}*/
